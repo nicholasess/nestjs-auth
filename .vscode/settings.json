@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "files.associations": {
+      "Pipenv": "toml"
+    },
+    "[nginx]": {
+      "editor.defaultFormatter": "ahmadalli.vscode-nginx-conf"
+    },
+    "[prisma]": {
+      "editor.defaultFormatter": "Prisma.prisma"
+    }
+  }
+  
