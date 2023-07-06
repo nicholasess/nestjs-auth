@@ -37,6 +37,6 @@ config.headers["Authorization"] = accessToken
 
 ### Ponto importante
 Não há instrução de como implementar o frontend, pois esse fluxo é um caso real que qualquer frontend vai precisar fazer no dia a dia.
-Por tanto é preciso que você faça a implementação da sua parte.
+Portanto é preciso que você faça a implementação da sua parte.
 
 Boa sorte!
